@@ -1,0 +1,16 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="4" />
+      <entry feature="StripeButton[Android Profiler].shown" count="4" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="diff.DirDiffViewer" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="47" />
+      <entry feature="ide.settings.Instant Run" count="1" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

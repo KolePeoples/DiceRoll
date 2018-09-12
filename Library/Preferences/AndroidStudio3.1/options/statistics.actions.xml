@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="8" />
+      <entry action="$Paste" count="2" />
+      <entry action="$Undo" count="88" />
+      <entry action="ActivateProjectToolWindow" count="1" />
+      <entry action="Android.CreateResourceDirectory" count="1" />
+      <entry action="Android.ExportProjectZip" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Create method from usage" count="1" />
+      <entry action="EditorBackSpace" count="578" />
+      <entry action="EditorChooseLookupItem" count="63" />
+      <entry action="EditorCopy" count="8" />
+      <entry action="EditorCut" count="2" />
+      <entry action="EditorDown" count="134" />
+      <entry action="EditorEnter" count="123" />
+      <entry action="EditorLeft" count="222" />
+      <entry action="EditorPaste" count="31" />
+      <entry action="EditorRight" count="137" />
+      <entry action="EditorSplitLine" count="3" />
+      <entry action="EditorTab" count="23" />
+      <entry action="EditorUp" count="17" />
+      <entry action="Generate" count="2" />
+      <entry action="Git.Configure.Remotes" count="2" />
+      <entry action="Git.Init" count="1" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="MemberPushDown" count="1" />
+      <entry action="Rerun" count="3" />
+      <entry action="RevealIn" count="4" />
+      <entry action="Run" count="44" />
+      <entry action="SaveAll" count="1" />
+      <entry action="ShowIntentionActions" count="15" />
+      <entry action="Start.Use.Vcs" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="WelcomeScreen.OpenSelected" count="1" />
+      <entry action="template.create.ActivityEmpty Activity" count="3" />
+      <entry action="template.create.XMLLayout XML File" count="2" />
+    </counts>
+  </component>
+</application>

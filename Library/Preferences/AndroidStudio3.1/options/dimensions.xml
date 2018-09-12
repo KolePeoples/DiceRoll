@@ -1,0 +1,20 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="512" y="427" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="340" y="193" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="371" y="122" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="421" y="114" />
+    <location key="SettingsEditor.0.0.1366.768" x="170" y="23" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="478" y="145" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog.0.0.1366.768" x="393" y="154" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1366.768" x="271" y="122" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1366.768" x="479" y="117" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="206" y="23" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
+    <size key="SettingsEditor.0.0.1366.768" width="1025" height="678" />
+    <size key="javadoc.popup.0.0.1366.768" width="444" height="168" />
+  </component>
+</application>
