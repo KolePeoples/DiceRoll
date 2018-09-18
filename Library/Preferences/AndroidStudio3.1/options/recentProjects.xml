@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
         <option value="$USER_HOME$/AndroidStudioProjects/CriticalRoll" />
         <option value="$USER_HOME$/Desktop/Intro to Mobile App Dev/MyRealFirstAppSortOf" />
         <option value="$USER_HOME$/AndroidStudioProjects/MyRealFirstAppSortOf" />
@@ -9,10 +10,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/AndroidStudioProjects/CriticalRoll" />
+        <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/CriticalRoll" />
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -22,8 +23,8 @@
               <option name="build" value="AI-173.4907809" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1536791763811" />
-              <option name="buildTimestamp" value="1532380473514" />
+              <option name="projectOpenTimestamp" value="1537226730716" />
+              <option name="buildTimestamp" value="1532380485332" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -35,6 +36,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1535577646143" />
               <option name="buildTimestamp" value="1532380497957" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/TicTacDoh">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4907809" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537230503790" />
+              <option name="buildTimestamp" value="1532380489258" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
