@@ -45,7 +45,7 @@
     <property name="ConstraintLayoutPreferenceAutoConnect" value="true" />
     <property name="MobileminApi" value="19" />
     <property name="dir.diff.panel.divider.location" value="171" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.76829267" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.78397214" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />

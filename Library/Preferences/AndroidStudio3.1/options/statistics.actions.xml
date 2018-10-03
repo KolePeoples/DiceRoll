@@ -10,7 +10,7 @@
       <entry action="Android.CreateResourceDirectory" count="2" />
       <entry action="Android.ExportProjectZip" count="3" />
       <entry action="CheckinFiles" count="1" />
-      <entry action="CheckinProject" count="10" />
+      <entry action="CheckinProject" count="11" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
       <entry action="CopyReference" count="1" />
       <entry action="Create method from usage" count="1" />
@@ -54,7 +54,7 @@
       <entry action="SearchEverywhere" count="1" />
       <entry action="ShowIntentionActions" count="21" />
       <entry action="Split Declaration" count="1" />
-      <entry action="Start.Use.Vcs" count="3" />
+      <entry action="Start.Use.Vcs" count="4" />
       <entry action="ToggleLineBreakpoint" count="1" />
       <entry action="Vcs.Push" count="1" />
       <entry action="WelcomeScreen.OpenSelected" count="1" />

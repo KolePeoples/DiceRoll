@@ -2,8 +2,8 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
         <option value="$USER_HOME$/AndroidStudioProjects/SoundBoard" />
+        <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
         <option value="$USER_HOME$/AndroidStudioProjects/MyCS315MovieList" />
         <option value="$USER_HOME$/Desktop" />
         <option value="$USER_HOME$/AndroidStudioProjects/CriticalRoll" />
@@ -13,10 +13,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SoundBoard" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/SoundBoard" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -59,8 +59,8 @@
               <option name="build" value="AI-173.4907809" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1538433981031" />
-              <option name="buildTimestamp" value="1532380448891" />
+              <option name="projectOpenTimestamp" value="1538588162901" />
+              <option name="buildTimestamp" value="1532380499683" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -70,7 +70,7 @@
               <option name="build" value="AI-173.4907809" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1538587953006" />
+              <option name="projectOpenTimestamp" value="1538588091495" />
               <option name="buildTimestamp" value="1532380499683" />
             </RecentProjectMetaInfo>
           </value>

@@ -4,7 +4,7 @@
       <entry feature="CreateFile.CreateFileAction" count="1" />
       <entry feature="StripeButton[Android Profiler].hidden" count="22" />
       <entry feature="StripeButton[Android Profiler].shown" count="8" />
-      <entry feature="StripeButton[Version Control].shown" count="4" />
+      <entry feature="StripeButton[Version Control].shown" count="5" />
       <entry feature="configure.code.style.on.selected.fragment" count="1" />
       <entry feature="diff.DirDiffTableModel" count="1" />
       <entry feature="diff.DirDiffViewer" count="1" />
