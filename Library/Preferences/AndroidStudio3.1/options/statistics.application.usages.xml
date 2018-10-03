@@ -2,16 +2,18 @@
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="1" />
-      <entry feature="StripeButton[Android Profiler].hidden" count="9" />
-      <entry feature="StripeButton[Android Profiler].shown" count="7" />
-      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="22" />
+      <entry feature="StripeButton[Android Profiler].shown" count="8" />
+      <entry feature="StripeButton[Version Control].shown" count="4" />
       <entry feature="configure.code.style.on.selected.fragment" count="1" />
       <entry feature="diff.DirDiffTableModel" count="1" />
       <entry feature="diff.DirDiffViewer" count="1" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="66" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="73" />
+      <entry feature="git.branch.create.new" count="1" />
       <entry feature="ide.settings.Instant Run" count="1" />
-      <entry feature="ideaapp.started" count="9" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="ideaapp.started" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
     </counts>
   </component>

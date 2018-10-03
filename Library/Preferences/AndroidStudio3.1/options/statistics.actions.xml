@@ -2,50 +2,61 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Copy" count="1" />
-      <entry action="$Delete" count="13" />
-      <entry action="$Paste" count="5" />
-      <entry action="$SelectAll" count="2" />
-      <entry action="$Undo" count="101" />
+      <entry action="$Delete" count="14" />
+      <entry action="$Paste" count="6" />
+      <entry action="$SelectAll" count="5" />
+      <entry action="$Undo" count="118" />
       <entry action="ActivateProjectToolWindow" count="1" />
-      <entry action="Android.CreateResourceDirectory" count="1" />
-      <entry action="Android.ExportProjectZip" count="2" />
-      <entry action="CheckinProject" count="3" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.ExportProjectZip" count="3" />
+      <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="10" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
       <entry action="CopyReference" count="1" />
       <entry action="Create method from usage" count="1" />
-      <entry action="EditorBackSpace" count="1625" />
-      <entry action="EditorChooseLookupItem" count="254" />
-      <entry action="EditorCopy" count="19" />
-      <entry action="EditorCut" count="5" />
-      <entry action="EditorDown" count="310" />
-      <entry action="EditorEnter" count="351" />
+      <entry action="Cvs.Import" count="2" />
+      <entry action="Debug" count="1" />
+      <entry action="EditorBackSpace" count="3924" />
+      <entry action="EditorChooseLookupItem" count="449" />
+      <entry action="EditorCopy" count="29" />
+      <entry action="EditorCut" count="8" />
+      <entry action="EditorDeleteLine" count="7" />
+      <entry action="EditorDown" count="529" />
+      <entry action="EditorEnter" count="492" />
       <entry action="EditorIndentSelection" count="1" />
-      <entry action="EditorLeft" count="551" />
+      <entry action="EditorLeft" count="1216" />
       <entry action="EditorLineStart" count="1" />
-      <entry action="EditorPaste" count="65" />
-      <entry action="EditorRight" count="676" />
+      <entry action="EditorPaste" count="111" />
+      <entry action="EditorRight" count="1371" />
       <entry action="EditorSplitLine" count="4" />
-      <entry action="EditorTab" count="47" />
-      <entry action="EditorUp" count="71" />
+      <entry action="EditorTab" count="72" />
+      <entry action="EditorUp" count="156" />
       <entry action="Generate" count="2" />
-      <entry action="Git.Configure.Remotes" count="3" />
-      <entry action="Git.Init" count="1" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Configure.Remotes" count="4" />
+      <entry action="Git.Init" count="3" />
+      <entry action="Github.Share" count="1" />
       <entry action="HideAllWindows" count="2" />
-      <entry action="Implement methods" count="1" />
+      <entry action="Implement methods" count="2" />
       <entry action="Introduce local variable" count="1" />
+      <entry action="Join Declaration and Assignment" count="1" />
+      <entry action="LocalHistory.ShowHistory" count="1" />
       <entry action="MemberPushDown" count="1" />
       <entry action="NewClass" count="2" />
       <entry action="NewFile" count="1" />
       <entry action="NewProject" count="1" />
-      <entry action="OpenFile" count="2" />
+      <entry action="OpenFile" count="14" />
       <entry action="OverrideMethods" count="2" />
       <entry action="Rerun" count="3" />
-      <entry action="RevealIn" count="4" />
-      <entry action="Run" count="63" />
+      <entry action="RevealIn" count="7" />
+      <entry action="Run" count="70" />
       <entry action="SaveAll" count="3" />
-      <entry action="ShowIntentionActions" count="18" />
-      <entry action="Start.Use.Vcs" count="2" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowIntentionActions" count="21" />
+      <entry action="Split Declaration" count="1" />
+      <entry action="Start.Use.Vcs" count="3" />
       <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="Vcs.Push" count="1" />
       <entry action="WelcomeScreen.OpenSelected" count="1" />
       <entry action="template.create.ActivityEmpty Activity" count="3" />
       <entry action="template.create.XMLLayout XML File" count="3" />

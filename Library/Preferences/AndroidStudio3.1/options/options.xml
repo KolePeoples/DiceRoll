@@ -6,10 +6,10 @@
     <property name="installed.kotlin.plugin.version" value="1.2.50-release-Studio3.1-1" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="lastTip" value="9" />
-    <property name="android-component-compatibility-check" value="1537225219127" />
+    <property name="lastTip" value="17" />
+    <property name="android-component-compatibility-check" value="1537992419329" />
     <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="file.gist.reindex.count" value="395" />
+    <property name="file.gist.reindex.count" value="585" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
@@ -39,15 +39,16 @@
     <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
     <property name="NlScreenMode" value="BLUEPRINT_ONLY" />
     <property name="SearchEveryWhereHistory" value="" />
-    <property name="search.everywhere.max.popup.width" value="735" />
     <property name="ConstraintLayoutPreferenceShowMargins" value="true" />
     <property name="properties.mode" value="INSPECTOR" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="ConstraintLayoutPreferenceAutoConnect" value="true" />
     <property name="MobileminApi" value="19" />
     <property name="dir.diff.panel.divider.location" value="171" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6498258" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.76829267" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
   </component>
 </application>

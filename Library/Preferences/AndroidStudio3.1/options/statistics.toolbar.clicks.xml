@@ -2,17 +2,17 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="Rerun@RunnerToolbar" count="3" />
-      <entry action="Run@NavBarToolbar" count="63" />
+      <entry action="Run@NavBarToolbar" count="70" />
       <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="6" />
       <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="2" />
-      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="17" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="26" />
       <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="2" />
       <entry action="com.android.tools.idea.editors.strings.AddKeyAction@TranslationsEditorToolbar" count="3" />
       <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$DirectViewActionWrapper@NlLayoutToolbar" count="1" />
       <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ToggleViewActionWrapper@NlLayoutToolbar" count="1" />
       <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper@toolbar" count="3" />
       <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$BrowseAction@unknown" count="8" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
     </counts>
   </component>
 </application>

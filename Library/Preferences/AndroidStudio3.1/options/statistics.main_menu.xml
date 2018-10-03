@@ -1,14 +1,23 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="File -&gt; Export to Zip File..." count="2" />
+      <entry path="File -&gt; Export to Zip File..." count="3" />
       <entry path="File -&gt; New -&gt; New Project..." count="1" />
-      <entry path="File -&gt; Open..." count="2" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="3" />
+      <entry path="File -&gt; Open..." count="14" />
       <entry path="File -&gt; Save All" count="2" />
-      <entry path="VCS -&gt; Commit" count="3" />
-      <entry path="VCS -&gt; Enable Version Control Integration..." count="2" />
-      <entry path="VCS -&gt; Git -&gt; Remotes..." count="3" />
-      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="4" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="1" />
+      <entry path="VCS -&gt; Commit" count="10" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="4" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Import into CVS..." count="2" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="1" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="1" />
       <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
     </counts>
   </component>

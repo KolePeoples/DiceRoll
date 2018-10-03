@@ -3,6 +3,9 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/AndroidStudioProjects/TicTacDoh" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SoundBoard" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyCS315MovieList" />
+        <option value="$USER_HOME$/Desktop" />
         <option value="$USER_HOME$/AndroidStudioProjects/CriticalRoll" />
         <option value="$USER_HOME$/Desktop/Intro to Mobile App Dev/MyRealFirstAppSortOf" />
         <option value="$USER_HOME$/AndroidStudioProjects/MyRealFirstAppSortOf" />
@@ -23,8 +26,19 @@
               <option name="build" value="AI-173.4907809" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1537226730716" />
-              <option name="buildTimestamp" value="1532380485332" />
+              <option name="projectOpenTimestamp" value="1538433031856" />
+              <option name="buildTimestamp" value="1532380448891" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyCS315MovieList">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4907809" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538433959321" />
+              <option name="buildTimestamp" value="1532380448891" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -39,14 +53,36 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SoundBoard">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4907809" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538433981031" />
+              <option name="buildTimestamp" value="1532380448891" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/TicTacDoh">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="AI-173.4907809" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1537230503790" />
-              <option name="buildTimestamp" value="1532380489258" />
+              <option name="projectOpenTimestamp" value="1538587953006" />
+              <option name="buildTimestamp" value="1532380499683" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4907809" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538433090547" />
+              <option name="buildTimestamp" value="1532380448891" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
